@@ -1,0 +1,29 @@
+{
+  "Culture": "en",
+  "Texts": {
+    "Menu:Home": "Home",
+    "Welcome": "Welcome",
+    "LongWelcomeMessage": "Welcome to the application",
+    "Menu:Employees": "Employees",
+    "Menu:Employee": "Employee",
+    "Actions": "Actions",
+    "Close": "Close",
+    "Delete": "Delete",
+    "Edit": "Edit",
+    "JoiningDate": "Joining date",
+    "NewEmployee": "New Employee",
+    "Name": "Employee name",
+    "Type": "Role",
+    "Salary": "Salary",
+    "PhoneNumber": "Phone number",
+    "Email": "Email",
+    "CreationTime": "Creation time",
+    "AreYouSure": "Are you sure?",
+    "AreYouSureToDelete": "Are you sure you want to delete this item?",
+    "EmployeeDeletionConfirmationMessage": "Are you sure to delete this employee '{0}'?",
+    "SuccessfullyDeleted": "Successfully deleted!",
+    "Enum:EmployeeType:0": "Developer",
+    "Enum:EmployeeType:1": "TeamLead",
+    "Enum:EmployeeType:2": "Manager"
+  }
+}
